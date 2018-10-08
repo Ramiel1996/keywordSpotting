@@ -1,8 +1,8 @@
-# »ùÓÚlstmµÄ°¢À­²®Êı×ÖÖĞÎÄÓïÒôÊ¶±ğ
-## ÒÀÀµÏî
+# åŸºäºlstmçš„é˜¿æ‹‰ä¼¯æ•°å­—ä¸­æ–‡è¯­éŸ³è¯†åˆ«
+## ä¾èµ–é¡¹
 matlab2017
-## ÑµÁ·
-ÔËĞĞtrain.m
+## è®­ç»ƒ
+è¿è¡Œtrain.m
 ## demo
-ÔËĞĞgui.m (ĞèÒªÂó¿Ë·ç)
-![Image text](https://raw.github.com/Ramiel1996/repositpry/master/keywordSpotting/demo.png)
+è¿è¡Œgui.m (éœ€è¦éº¦å…‹é£)
+![Image text](https://github.com/Ramiel1996/keywordSpotting/blob/master/demo.png)
